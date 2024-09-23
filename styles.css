@@ -1,5 +1,14 @@
 html {
   height: 100%;
   width: 100%;
-  background-color: yellow;
+  background-color: white;
+}
+
+
+
+body {
+    font: 12px Arial, Helvetica, sans-serif;
+    color: #CCCCCC;
+    background: #000000 url(background.jpg) no-repeat center bottom;
+    margin: 0px;
 }
